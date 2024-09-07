@@ -11,7 +11,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 
 
-- [x] Login to GitHub
-- [x] Introduce myself to the world
-- [ ] Finish my assignment
-
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
